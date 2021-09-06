@@ -12,7 +12,7 @@ title: 'Veronika Hažlinská: Ve zdravotnictví je neuvěřitelné množství na
 description: 'volby, rozhovor, poslanecká sněmovna, zdravotnictví'
 author: Mediální odbor
 #authorId: antonin.schejbal
-image: posts/2021/2021-09-03-hazlinska.jpg
+image: posts/2021/verca2.jpg
 ---
 
 **Veronika Hažlinská** je [pirátská kandidátka do letošních voleb do Poslanecké sněmovny z 27. místa](https://www.piratiastarostove.cz/kandidati/bc-veronika-hazlinska/). 
